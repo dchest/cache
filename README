@@ -1,3 +1,7 @@
+***************************************************************************
+** This package is deprecated in favor of https://github.com/dchest/lru ***
+***************************************************************************
+
 Go package cache implements LRU (Least Recently Used) cache algorithm.
 
 Cache capacity can be optionally limited by both size in bytes and a number
